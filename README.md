@@ -9,7 +9,7 @@ This fork contains it with master branch
 
 ```bash
 
-$ ./bootstrap
+$ autoreconf -ivf
 $ ./configure
 $ make
 ```
